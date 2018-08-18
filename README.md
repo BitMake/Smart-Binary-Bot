@@ -1,2 +1,2 @@
-# Smart-Binary-Bot
+## Smart-Binary-Bot
 Binary Bot With Smart Martingale System
